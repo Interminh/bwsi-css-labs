@@ -14,3 +14,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#Robot speed: 5 m/s
